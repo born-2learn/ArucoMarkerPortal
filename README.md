@@ -19,13 +19,13 @@
 - [Running](#running)
   - [Linux support](#ultimatesecuritycam-running-on-linux)
   - [Running instructions](#running-instructions)
-- [Get in touch](#get-in-touch)
+- [Get in touch](#-get-in-touch)
 
 
 
 ## Introduction
 ---
-[(Back to top)](#list-of-contents)
+[(Back to top)](#table-of-content)
 - This is a security camera software which detects any intruder and alerts the owner .
 - This is the basic prototype , we'll make it un-hack-able by using microphone and eliminating every possible hack to fool our software.
 - Many issues are up-for-grabs. Check them out from issues tab.
@@ -43,7 +43,7 @@ If the difference is more than a threshold , we'll consider a breach happening.
 
 ## Setup instructions
 ---
-[(Back to top)](#list-of-contents)
+[(Back to top)](#table-of-content)
 - To run , simply copy the code in the `UltimateSecurityCam.py` and run it.
 - More formally , fork the code , and clone it your machine . I recommend that you use the GitH desktop app.
   - If you need a python IDE , I recommend using pycharm. [Tutorial to install : ](https://www.youtube.com/watch?v=QzcaEELafkE).
@@ -56,7 +56,7 @@ If the difference is more than a threshold , we'll consider a breach happening.
 
 ## Running
 ---
-[(Back to top)](#list-of-contents)
+[(Back to top)](#table-of-content)
 
 ### UltimateSecurityCam running on Linux
 
@@ -80,7 +80,7 @@ Many improvements and developments are in the pipeline! To know more, contact on
 
 ## Get in touch
 ---
-[(Back to top)](#list-of-contents)
+[(Back to top)](#table-of-content)
 
 [LinkedIn](https://www.linkedin.com/in/syedfarhanahmad/)
 
