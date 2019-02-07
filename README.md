@@ -57,15 +57,14 @@ If the difference is more than a threshold , we'll consider a breach happening.
 
 [(Back to top)](#table-of-content)
 
-### UltimateSecurityCam running on Linux
+### ArucoMarkerPortal running on Linux
 
-Command(with Linux as the working directory):
-## UltimateSecurityCam running on Linux
+
 
 Command (with Linux as the working directory):
-`python UltimateSecurityCam.py`
+`python aruco_detct.py`
 
-![ultimatesecuritycam](https://user-images.githubusercontent.com/30645315/49302849-31d16380-f4ee-11e8-9bfa-4e99866fa3bc.gif)
+![ArucoMarkerProject](https://user-images.githubusercontent.com/30645315/49302849-31d16380-f4ee-11e8-9bfa-4e99866fa3bc.gif)
 
 
 ### Running instructions: ###

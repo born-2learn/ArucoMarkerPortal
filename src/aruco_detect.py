@@ -1,6 +1,6 @@
 import cv2
 import csv
-from . import aruco_lib
+from src import aruco_lib
 
 cap = cv2.VideoCapture(0)
 
