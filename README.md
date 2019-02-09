@@ -50,7 +50,7 @@
 Command (with Linux as the working directory):
 `python aruco_detct.py`
 
-![ArucoMarkerProject](https://user-images.githubusercontent.com/30645315/49302849-31d16380-f4ee-11e8-9bfa-4e99866fa3bc.gif)
+![arucomarkers](https://user-images.githubusercontent.com/42010556/52521389-83d7f780-2c9c-11e9-8e1c-325051add20e.gif)
 
 
 ### Running instructions: ###
